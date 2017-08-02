@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+uus fail
+muudatus
+
+veel muudatusi
+=======
+uus fail <- 3.22.1 muudatused
+muudatus <- release-3.22.2 muudatused
+>>>>>>> release-3.22.2
